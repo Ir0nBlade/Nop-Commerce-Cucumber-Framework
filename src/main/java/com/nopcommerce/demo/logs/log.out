@@ -1,0 +1,156 @@
+2021-12-11 22:12:65 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-11 22:12:455 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-11 22:12:778 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-11 22:12:128 INFO  HomePage :40 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (2d840807f6742d20b266cd551236f490)] -> link text: Log in]
+2021-12-11 22:12:371 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-11 22:12:718 INFO  HomePage :40 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (02401695e4c07728aa263dfc277b89b5)] -> link text: Log in]
+2021-12-11 23:12:851 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-11 23:12:167 INFO  HomePage :40 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (adf6c2aef4c7e2e7bef3c0a12aea0756)] -> link text: Log in]
+2021-12-11 23:12:775 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-11 23:12:259 INFO  HomePage :40 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3a8ec86c31e2c5601cc683e35e94e690)] -> link text: Log in]
+2021-12-11 23:12:654 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-11 23:12:67 INFO  HomePage :40 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (b03b43b5c910372a7c52a6be2164ca9d)] -> link text: Log in]
+2021-12-11 23:12:682 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-11 23:12:747 INFO  HomePage :40 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (93f289279d088957c05e331441c92ca6)] -> link text: Log in]
+2021-12-12 00:12:935 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 00:12:355 INFO  HomePage :40 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (d5615b414deb304e92c327c09a5c295a)] -> link text: Log in]
+2021-12-12 00:12:960 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 00:12:424 INFO  HomePage :40 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (d16d51ed6df9ff80ba9df85b9f804bb1)] -> link text: Log in]
+2021-12-12 00:12:491 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 00:12:95 INFO  HomePage :40 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (49f5507a70dd5510177611ac126d7a4c)] -> link text: Log in]
+2021-12-12 00:12:694 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 00:12:171 INFO  HomePage :40 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (8254d90cb2342f9da5eba7bc61caa4e8)] -> link text: Log in]
+2021-12-12 00:12:185 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 00:12:727 INFO  HomePage :40 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (7c875431cd28e5d87240dda84f950c0e)] -> link text: Log in]
+2021-12-12 00:12:675 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 00:12:931 INFO  HomePage :40 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3a0d08479f4779458e40ac7bb03176ff)] -> link text: Log in]
+2021-12-12 00:12:542 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 00:12:972 INFO  HomePage :40 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (16c6cb878902b59b0609a60b06892e28)] -> link text: Log in]
+2021-12-12 00:12:595 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 00:12:96 INFO  HomePage :40 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (df7b4d75ea563db2a5593ec85775cee3)] -> link text: Log in]
+2021-12-12 00:12:679 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 00:12:141 INFO  HomePage :40 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (ec12c9bc77bd62193215789c884389d3)] -> link text: Log in]
+2021-12-12 00:12:722 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 00:12:210 INFO  HomePage :40 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (208cc23e6c2ca098732f69375b0cd14c)] -> link text: Log in]
+2021-12-12 00:12:235 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 00:12:890 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 00:12:538 INFO  HomePage :40 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (46297e79e5c8fa06c755e21c9865b699)] -> link text: Log in]
+2021-12-12 00:12:638 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 00:12:346 INFO  HomePage :40 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (cdf7ded3c99fc08e12420745cad9d550)] -> link text: Log in]
+2021-12-12 00:12:968 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 00:12:464 INFO  HomePage :40 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (6897979fbea2f6e4e223114ecb3b2b39)] -> link text: Log in]
+2021-12-12 01:12:237 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 01:12:172 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 01:12:563 INFO  HomePage :45 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (d695a8ad2019e465428d3a56edc5c2da)] -> link text: Register]
+2021-12-12 01:12:871 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 01:12:270 INFO  HomePage :45 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (75bf9ad322f2edbfd1f5f4505adb6a25)] -> link text: Register]
+2021-12-12 01:12:896 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 01:12:335 INFO  HomePage :45 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (8ede102f795c07fcdcef80224fb529c0)] -> link text: Register]
+2021-12-12 01:12:803 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 01:12:471 INFO  HomePage :45 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (1ba86afc7827a54b2a35c448b6529297)] -> link text: Register]
+2021-12-12 01:12:194 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 01:12:843 INFO  HomePage :45 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (bf21cbe12071e0cb72ff0b68bffeb696)] -> link text: Register]
+2021-12-12 01:12:650 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 01:12:52 INFO  HomePage :45 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (417b39f293304efc227fc2826b0a6e2a)] -> link text: Register]
+2021-12-12 01:12:429 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 01:12:859 INFO  HomePage :45 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (fa3c747d133e8b85698dcfde8bb2c519)] -> link text: Register]
+2021-12-12 01:12:949 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 01:12:359 INFO  HomePage :45 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (802dfcb7a8845402a8a17c9eefa29903)] -> link text: Register]
+2021-12-12 01:12:995 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 01:12:365 INFO  HomePage :45 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (5e37a4db5619352b55ca07a334630b40)] -> link text: Register]
+2021-12-12 01:12:706 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 01:12:157 INFO  HomePage :45 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (f1710ec48de4cb4669f5db7adc41e333)] -> link text: Register]
+2021-12-12 01:12:780 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 01:12:447 INFO  HomePage :45 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (28a30ef21a41e528714c9a57c14d93d6)] -> link text: Register]
+2021-12-12 01:12:738 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 01:12:104 INFO  HomePage :45 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (9211b61ce335dc1edb14c533b7f243c0)] -> link text: Register]
+2021-12-12 01:12:712 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 01:12:321 INFO  HomePage :45 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (23ebc65bbae623021a26fbf470215f5d)] -> link text: Register]
+2021-12-12 07:12:976 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 07:12:688 INFO  HomePage :45 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (03f8f0ecfe35233cffee4047e2fddfbb)] -> link text: Register]
+2021-12-12 07:12:141 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 07:12:713 INFO  HomePage :45 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (9fd6e513f30cec6658ad0aa03e67cd54)] -> link text: Register]
+2021-12-12 07:12:363 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 07:12:732 INFO  HomePage :45 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (6f108e4d45f4253f125f7182ae95ed3a)] -> link text: Register]
+2021-12-12 07:12:591 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 07:12:872 INFO  HomePage :45 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (0e571ce66853e1ef6ad7d1bf591b586c)] -> link text: Register]
+2021-12-12 07:12:623 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 07:12:310 INFO  HomePage :45 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (ddc3d6518da09d914bda374911f78b12)] -> link text: Register]
+2021-12-12 07:12:241 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 07:12:969 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 07:12:510 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 07:12:409 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 07:12:617 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 07:12:461 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 07:12:145 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 07:12:231 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 07:12:878 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 07:12:103 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 07:12:843 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 08:12:854 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 08:12:479 INFO  HomePage :45 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (a6308faa4894876a45997fcaf7450637)] -> link text: Register]
+2021-12-12 08:12:169 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 08:12:503 INFO  HomePage :45 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (1f71021f7cbd8be0041dd8c2328362c9)] -> link text: Register]
+2021-12-12 08:12:386 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 08:12:653 INFO  HomePage :45 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (a1beecc9adb1b6f55b6c3c2950dae683)] -> link text: Register]
+2021-12-12 08:12:111 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 08:12:48 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 08:12:142 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 08:12:621 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 08:12:572 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 08:12:311 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 08:12:219 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 08:12:421 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 08:12:129 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 08:12:439 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 10:12:361 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 10:12:998 INFO  HomePage :45 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (574e1e5921a7e9a9b830f69aedf3212d)] -> link text: Register]
+2021-12-12 10:12:59 INFO  RegisterPage :139 - Clicking on Register button: [[ChromeDriver: chrome on WINDOWS (574e1e5921a7e9a9b830f69aedf3212d)] -> id: register-button]
+2021-12-12 10:12:92 INFO  RegisterPage :145 - Selecting Year for Data of Birth: [[ChromeDriver: chrome on WINDOWS (574e1e5921a7e9a9b830f69aedf3212d)] -> xpath: //select[@name='DateOfBirthYear']]
+2021-12-12 10:12:120 INFO  RegisterPage :150 - Verifying Last Name required error message: [[ChromeDriver: chrome on WINDOWS (574e1e5921a7e9a9b830f69aedf3212d)] -> id: LastName-error]
+2021-12-12 10:12:144 INFO  RegisterPage :155 - Verifying Email required error message: [[ChromeDriver: chrome on WINDOWS (574e1e5921a7e9a9b830f69aedf3212d)] -> id: Email-error]
+2021-12-12 10:12:166 INFO  RegisterPage :160 - Verifying Password required error message: [[ChromeDriver: chrome on WINDOWS (574e1e5921a7e9a9b830f69aedf3212d)] -> id: Password-error]
+2021-12-12 10:12:190 INFO  RegisterPage :165 - Verifying confirm password required error message: [[ChromeDriver: chrome on WINDOWS (574e1e5921a7e9a9b830f69aedf3212d)] -> id: ConfirmPassword-error]
+2021-12-12 10:12:782 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 10:12:545 INFO  HomePage :45 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (a37770eae037555644ad0198d0889ba0)] -> link text: Register]
+2021-12-12 10:12:592 INFO  RegisterPage :85 - Selecting Gender: [[ChromeDriver: chrome on WINDOWS (a37770eae037555644ad0198d0889ba0)] -> xpath: //input[@name='Gender']]
+2021-12-12 10:12:648 INFO  RegisterPage :90 - Entering First Name: [[ChromeDriver: chrome on WINDOWS (a37770eae037555644ad0198d0889ba0)] -> id: FirstName]
+2021-12-12 10:12:700 INFO  RegisterPage :95 - Entering Last name: [[ChromeDriver: chrome on WINDOWS (a37770eae037555644ad0198d0889ba0)] -> id: LastName]
+2021-12-12 10:12:767 INFO  RegisterPage :114 - Selecting Day for Date of Birth: [[ChromeDriver: chrome on WINDOWS (a37770eae037555644ad0198d0889ba0)] -> xpath: //select[@name='DateOfBirthDay']]
+2021-12-12 10:12:826 INFO  RegisterPage :119 - Selecting Month for Date of Birth: [[ChromeDriver: chrome on WINDOWS (a37770eae037555644ad0198d0889ba0)] -> xpath: //select[@name='DateOfBirthMonth']]
+2021-12-12 10:12:891 INFO  RegisterPage :124 - Selecting Year for Data of Birth: [[ChromeDriver: chrome on WINDOWS (a37770eae037555644ad0198d0889ba0)] -> xpath: //select[@name='DateOfBirthYear']]
+2021-12-12 10:12:942 INFO  RegisterPage :100 - Entering Email: [[ChromeDriver: chrome on WINDOWS (a37770eae037555644ad0198d0889ba0)] -> id: Email]
+2021-12-12 10:12:991 INFO  RegisterPage :129 - Selecting Year for Data of Birth: [[ChromeDriver: chrome on WINDOWS (a37770eae037555644ad0198d0889ba0)] -> xpath: //select[@name='DateOfBirthYear']]
+2021-12-12 10:12:37 INFO  RegisterPage :134 - Entering confirm password: Harry123
+2021-12-12 10:12:297 INFO  RegisterPage :139 - Clicking on Register button: Proxy element for: DefaultElementLocator 'By.id: register-button'
+2021-12-12 10:12:319 INFO  RegisterPage :170 - Verifying Registration completed message: [[ChromeDriver: chrome on WINDOWS (a37770eae037555644ad0198d0889ba0)] -> xpath: //div[contains(text(),'Your registration completed')]]
+2021-12-12 10:12:913 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 10:12:185 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 10:12:375 INFO  ComputerPage :39 - Clicking on desktop link: Proxy element for: DefaultElementLocator 'By.xpath: //img[@title='Show products in category Desktops']'
+2021-12-12 10:12:988 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 10:12:611 INFO  ComputerPage :39 - Clicking on desktop link: Proxy element for: DefaultElementLocator 'By.xpath: //img[@title='Show products in category Desktops']'
+2021-12-12 10:12:18 INFO  DesktopsPage :57 - Select product from desktop page: [[ChromeDriver: chrome on WINDOWS (8ff43b2a959f6c55b8834c6c0468eabf)] -> xpath: //div[@class='picture']]
+2021-12-12 10:12:83 INFO  BuildYourOwnComputerPage :50 - Selecting processor from dropdown: [[ChromeDriver: chrome on WINDOWS (8ff43b2a959f6c55b8834c6c0468eabf)] -> xpath: //select[@id='product_attribute_1']]
+2021-12-12 10:12:150 INFO  BuildYourOwnComputerPage :55 - Selecting RAM from dropdown: [[ChromeDriver: chrome on WINDOWS (8ff43b2a959f6c55b8834c6c0468eabf)] -> xpath: //select[@id='product_attribute_2']]
+2021-12-12 10:12:193 INFO  BuildYourOwnComputerPage :60 - Selecting HDD from dropdown: [[ChromeDriver: chrome on WINDOWS (8ff43b2a959f6c55b8834c6c0468eabf)] -> xpath: //input[@name='product_attribute_3']]
+2021-12-12 10:12:231 INFO  BuildYourOwnComputerPage :65 - Selecting OS: [[ChromeDriver: chrome on WINDOWS (8ff43b2a959f6c55b8834c6c0468eabf)] -> xpath: //input[@name='product_attribute_4']]
+2021-12-12 10:12:267 INFO  BuildYourOwnComputerPage :70 - Selecting Software: Microsoft Office [+$50.00]
+2021-12-12 10:12:308 INFO  BuildYourOwnComputerPage :75 - Clicking on Add To Cart Button: [[ChromeDriver: chrome on WINDOWS (8ff43b2a959f6c55b8834c6c0468eabf)] -> id: add-to-cart-button-1]
+2021-12-12 10:12:737 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 10:12:852 INFO  ComputerPage :39 - Clicking on desktop link: Proxy element for: DefaultElementLocator 'By.xpath: //img[@title='Show products in category Desktops']'
+2021-12-12 10:12:577 INFO  DesktopsPage :57 - Select product from desktop page: [[ChromeDriver: chrome on WINDOWS (12285ef11001c0ce5f2dc9c3f2dba9af)] -> xpath: //div[@class='picture']]
+2021-12-12 10:12:621 INFO  BuildYourOwnComputerPage :50 - Selecting processor from dropdown: [[ChromeDriver: chrome on WINDOWS (12285ef11001c0ce5f2dc9c3f2dba9af)] -> xpath: //select[@id='product_attribute_1']]
+2021-12-12 10:12:676 INFO  BuildYourOwnComputerPage :55 - Selecting RAM from dropdown: [[ChromeDriver: chrome on WINDOWS (12285ef11001c0ce5f2dc9c3f2dba9af)] -> xpath: //select[@id='product_attribute_2']]
+2021-12-12 10:12:722 INFO  BuildYourOwnComputerPage :60 - Selecting HDD from dropdown: [[ChromeDriver: chrome on WINDOWS (12285ef11001c0ce5f2dc9c3f2dba9af)] -> xpath: //input[@name='product_attribute_3']]
+2021-12-12 10:12:763 INFO  BuildYourOwnComputerPage :65 - Selecting OS: [[ChromeDriver: chrome on WINDOWS (12285ef11001c0ce5f2dc9c3f2dba9af)] -> xpath: //input[@name='product_attribute_4']]
+2021-12-12 10:12:799 INFO  BuildYourOwnComputerPage :70 - Selecting Software: Acrobat Reader [+$10.00]
+2021-12-12 10:12:837 INFO  BuildYourOwnComputerPage :75 - Clicking on Add To Cart Button: [[ChromeDriver: chrome on WINDOWS (12285ef11001c0ce5f2dc9c3f2dba9af)] -> id: add-to-cart-button-1]
+2021-12-12 10:12:362 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-12 10:12:870 INFO  ComputerPage :39 - Clicking on desktop link: Proxy element for: DefaultElementLocator 'By.xpath: //img[@title='Show products in category Desktops']'
+2021-12-12 10:12:251 INFO  DesktopsPage :57 - Select product from desktop page: [[ChromeDriver: chrome on WINDOWS (8babb81c90aafeb9363950f9d40d831a)] -> xpath: //div[@class='picture']]
+2021-12-12 10:12:289 INFO  BuildYourOwnComputerPage :50 - Selecting processor from dropdown: [[ChromeDriver: chrome on WINDOWS (8babb81c90aafeb9363950f9d40d831a)] -> xpath: //select[@id='product_attribute_1']]
+2021-12-12 10:12:349 INFO  BuildYourOwnComputerPage :55 - Selecting RAM from dropdown: [[ChromeDriver: chrome on WINDOWS (8babb81c90aafeb9363950f9d40d831a)] -> xpath: //select[@id='product_attribute_2']]
+2021-12-12 10:12:393 INFO  BuildYourOwnComputerPage :60 - Selecting HDD from dropdown: [[ChromeDriver: chrome on WINDOWS (8babb81c90aafeb9363950f9d40d831a)] -> xpath: //input[@name='product_attribute_3']]
+2021-12-12 10:12:440 INFO  BuildYourOwnComputerPage :65 - Selecting OS: [[ChromeDriver: chrome on WINDOWS (8babb81c90aafeb9363950f9d40d831a)] -> xpath: //input[@name='product_attribute_4']]
+2021-12-12 10:12:477 INFO  BuildYourOwnComputerPage :70 - Selecting Software: Total Commander [+$5.00]
+2021-12-12 10:12:517 INFO  BuildYourOwnComputerPage :75 - Clicking on Add To Cart Button: [[ChromeDriver: chrome on WINDOWS (8babb81c90aafeb9363950f9d40d831a)] -> id: add-to-cart-button-1]
