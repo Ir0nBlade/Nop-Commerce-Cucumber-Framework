@@ -61,9 +61,9 @@ public class LoginSteps {
         new HomePage().clickOnLogoutLink();
     }
 
-    @Then("^I logout successfully$")
-    public void iLogoutSuccessfully() {
+
+    @Then("^I can see login link$")
+    public void iCanSeeLoginLink() {
         new HomePage().verifyLoginLinkVisible();
     }
-
 }

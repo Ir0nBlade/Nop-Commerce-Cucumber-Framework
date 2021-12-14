@@ -2,12 +2,13 @@ Feature: Register Test
   As a user I should register successfully
 
   Background: I am on homepage
-  @Smoke
+
+  @Smoke @Regression
   Scenario: Verify user should navigagte to register page successfully
     When    I click on register link
     Then    I am on register page
 
-  @Sanity, @Regression
+  @Sanity @Regression
   Scenario: verify That First Name Last Name Email Password And Confirm Password Fields Are Mandatory
     When    I click on register link
     And     I click on register button

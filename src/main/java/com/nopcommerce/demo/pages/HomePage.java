@@ -5,6 +5,7 @@ import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
@@ -18,21 +19,25 @@ public class HomePage extends Utility {
         PageFactory.initElements(driver, this);
     }
 
+    @CacheLookup
     @FindBy(linkText = "Log in")
     WebElement getLoginLink;
 
+    @CacheLookup
     @FindBy(linkText = "Register")
     WebElement getRegisterLink;
 
+    @CacheLookup
     @FindBy(xpath = "//img[@alt='nopCommerce demo store']")
     WebElement getNopCommerceLogo;
 
+    @CacheLookup
     @FindBy(xpath = "//a[contains(text(),'My account')]")
     WebElement getmyAccountLink;
 
+    @CacheLookup
     @FindBy(xpath = "//a[contains(text(),'Log out')]")
     WebElement getlogoutLink;
-
 
 
     public void clickOnLoginLink() {

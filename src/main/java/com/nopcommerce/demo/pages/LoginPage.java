@@ -4,6 +4,7 @@ import com.nopcommerce.demo.utility.Utility;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
@@ -15,18 +16,23 @@ public class LoginPage extends Utility {
         PageFactory.initElements(driver, this);
     }
 
+    @CacheLookup
     @FindBy(xpath = "//h1[contains(text(),'Welcome, Please Sign In!')]")
     WebElement welcomeText;
 
+    @CacheLookup
     @FindBy(id = "Email")
     WebElement emailField;
 
+    @CacheLookup
     @FindBy(name = "Password")
     WebElement passwordField;
 
+    @CacheLookup
     @FindBy(xpath = "//button[contains(text(),'Log in')]")
     WebElement loginButton;
 
+    @CacheLookup
     @FindBy(xpath = "//div[@class='message-error validation-summary-errors']")
     WebElement errorMessage;
 

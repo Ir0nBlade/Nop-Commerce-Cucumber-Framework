@@ -4,6 +4,7 @@ import com.nopcommerce.demo.utility.Utility;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
@@ -15,15 +16,19 @@ public class ComputerPage extends Utility {
         PageFactory.initElements(driver, this);
     }
 
+    @CacheLookup
     @FindBy(xpath = "//h1[contains(text(),'Computers')]")
     WebElement computersText;
 
+    @CacheLookup
     @FindBy(xpath = "//img[@title='Show products in category Desktops']")
     WebElement desktopLink;
 
+    @CacheLookup
     @FindBy(xpath = "//img[@title='Show products in category Notebooks']")
     WebElement notebooksLink;
 
+    @CacheLookup
     @FindBy(xpath = "//img[@title='Show products in category Software']")
     WebElement softwareLink;
 

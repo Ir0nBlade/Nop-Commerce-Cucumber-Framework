@@ -4,6 +4,7 @@ import com.nopcommerce.demo.utility.Utility;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
@@ -15,27 +16,35 @@ public class BuildYourOwnComputerPage extends Utility {
         PageFactory.initElements(driver, this);
     }
 
+    @CacheLookup
     @FindBy(xpath = "//h1[contains(text(),'Build your own computer')]")
     WebElement buildYourOwnComputerText;
 
+    @CacheLookup
     @FindBy(xpath = "//select[@id='product_attribute_1']")
     WebElement processorDropdown;
 
+    @CacheLookup
     @FindBy(xpath = "//select[@id='product_attribute_2']")
     WebElement ramDropdown;
 
+    @CacheLookup
     @FindBy(xpath = "//input[@name='product_attribute_3']")
     WebElement selectHdd;
 
+    @CacheLookup
     @FindBy(xpath = "//input[@name='product_attribute_4']")
     WebElement selectOperatingSystem;
 
+    @CacheLookup
     @FindBy(xpath = "//input[@name='product_attribute_5']")
     WebElement selectSoftware;
 
+    @CacheLookup
     @FindBy(id = "add-to-cart-button-1")
     WebElement addToCartButton;
 
+    @CacheLookup
     @FindBy(xpath = "//p[contains(.,'The product has been added to your shopping cart')]")
     WebElement productAddedToCartMessage;
 

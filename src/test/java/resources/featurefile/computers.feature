@@ -3,12 +3,12 @@ Feature: Computers page test
 
   Background: I am on homepage
 
-  @Smoke, @Regression
+  @Smoke @Regression
   Scenario: Verify User Should Navigate To Computer Page Successfully
     When  I click on Computers tab
     Then  I should navigate to Computers page successfully
 
-  @Sanity, @Regression
+  @Sanity @Regression
   Scenario: Verify user should navigate to Desktop page successfully
     When  I click on Computers tab
     And   I should navigate to Computers page successfully

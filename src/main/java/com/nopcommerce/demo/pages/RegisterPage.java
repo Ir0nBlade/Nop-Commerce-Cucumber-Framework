@@ -4,6 +4,7 @@ import com.nopcommerce.demo.utility.Utility;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
@@ -15,66 +16,86 @@ public class RegisterPage extends Utility {
         PageFactory.initElements(driver, this);
     }
 
+    @CacheLookup
     @FindBy(xpath = "//h1[contains(text(),'Register')]")
     WebElement registerText;
 
+    @CacheLookup
     @FindBy(xpath = "//input[@name='Gender']")
     WebElement gender;
 
+    @CacheLookup
     @FindBy(id = "FirstName")
     WebElement firstName;
 
+    @CacheLookup
     @FindBy(id = "LastName")
     WebElement lastName;
 
+    @CacheLookup
     @FindBy(xpath = "//select[@name='DateOfBirthDay']")
     WebElement dateOfBirthDay;
 
+    @CacheLookup
     @FindBy(xpath = "//select[@name='DateOfBirthMonth']")
     WebElement dateOfBirthMonth;
 
+    @CacheLookup
     @FindBy(xpath = "//select[@name='DateOfBirthYear']")
     WebElement dateOfBirthYear;
 
+    @CacheLookup
     @FindBy(id = "Email")
     WebElement email;
 
+    @CacheLookup
     @FindBy(id = "Password")
     WebElement password;
 
+    @CacheLookup
     @FindBy(id = "ConfirmPassword")
     WebElement confirmPassword;
 
+    @CacheLookup
     @FindBy(id = "register-button")
     WebElement registerButton;
 
+    @CacheLookup
     @FindBy(id = "FirstName-error")
     WebElement firstNameErrorText;
 
+    @CacheLookup
     @FindBy(id = "LastName-error")
     WebElement lastNameErrorText;
 
+    @CacheLookup
     @FindBy(id = "Email-error")
     WebElement emailErrorText;
 
+    @CacheLookup
     @FindBy(id = "Password-error")
     WebElement passwordErrorText;
 
+    @CacheLookup
     @FindBy(id = "ConfirmPassword-error")
     WebElement confirmPasswordErrorText;
 
+    @CacheLookup
     @FindBy(xpath = "//div[contains(text(),'Your registration completed')]")
     WebElement registrationCompleted;
 
+    @CacheLookup
     @FindBy(xpath = "//a[contains(text(),'Continue')]")
     WebElement contineBtn;
 
 
     public void verifyRegisterText(String text) {
         verifyThatTextIsDisplayed(registerText, text);
+        log.info("Verifying 'Register' text on register page  " + registerText.toString());
     }
 
     public String getMessage(){
+        log.info("Getting register message  " + registerText.toString());
         String message = getTextFromElement(registerText);
         return message;
     }

@@ -3,12 +3,12 @@ Feature: Login Test
 
   Background: I am on homepage
 
-#  @Smoke
+  @Smoke @Regression
   Scenario: User should navigate to login page successfully
     When    I click on login link
     Then    I should navigate to login page successfully
 
-  @Smoke
+  @Sanity @Regression
   Scenario: User should login successfully with valid credentials
     When  I click on login link
     And   I enter email "prime@gamil.com"
@@ -16,7 +16,7 @@ Feature: Login Test
     And   I click on login button
     Then  I should login successfully
 
-
+  @Regression
   Scenario Outline: User should not login with invalid credentials
     When  I click on login link
     And   I enter email "<email>"
@@ -29,12 +29,12 @@ Feature: Login Test
       | xyz123@gmail.com   | abc123   | Login was unsuccessful. Please correct the errors and try again.\nNo customer account found |
       | adfafasd@gmail.com | xyz123   | Login was unsuccessful. Please correct the errors and try again.\nNo customer account found |
 
-  @Smoke
+  @Regression
   Scenario: User should logout successfully
     When  I click on login link
-    And   I enter email "prime@gmail.com"
-    And   I enter password "abc123"
+    And   I enter email "harry.potter21@gmail.com"
+    And   I enter password "Harry123"
     And   I click on login button
     And   I click on logout link
-    Then  I logout successfully
+    Then  I can see login link
 
